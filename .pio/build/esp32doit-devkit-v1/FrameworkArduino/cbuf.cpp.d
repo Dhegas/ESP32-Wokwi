@@ -1,3 +1,3 @@
 .pio/build/esp32doit-devkit-v1/FrameworkArduino/cbuf.cpp.o: \
- C:/Users/Thorik\ Tronik/.platformio/packages/framework-arduinoespressif32/cores/esp32/cbuf.cpp \
- C:/Users/Thorik\ Tronik/.platformio/packages/framework-arduinoespressif32/cores/esp32/cbuf.h
+ C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/cbuf.cpp \
+ C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/cbuf.h
